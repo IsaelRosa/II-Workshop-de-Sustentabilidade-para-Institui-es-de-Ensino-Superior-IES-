@@ -1,0 +1,36 @@
+{
+  "name": "evento-dyego",
+  "description": "Website profissional para o Evento Dyego - Otimizado para Hostinger",
+  "version": "1.0.0",
+  "keywords": ["evento", "palestras", "workshops", "networking", "tecnologia"],
+  "homepage": "https://seu-dominio.com",
+  "author": {
+    "name": "Evento Dyego",
+    "email": "contato@eventodyego.com.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usuario/evento-dyego"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Static site - no build process needed'",
+    "deploy": "echo 'Upload files to Hostinger via FTP or File Manager'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "metadata": {
+    "framework": "Vanilla HTML/CSS/JS",
+    "hosting": "Hostinger",
+    "responsive": true,
+    "accessibility": "WCAG 2.1 AA",
+    "performance": "Optimized",
+    "seo": "Optimized"
+  }
+}
